@@ -1,89 +1,25 @@
 ﻿Internship ID,Department,Position,Quantity,Faculty / Major,Education Level,Internship Period,Required Skills,Main Responsibilities,Status
-INT-2027-001,,Digital Logistic developer,2,Modern Management and Information Technology,Bachelor's Degree,Apr'27-Feb'28,Coding/3D/Warehousing/Logistic,Digital warehouse development,Not Requested
-INT-2027-002,,Logistics and Supply Chain developer,2,Logistics and Supply Chain Management,Bachelor's Degree,Apr'27-Feb'28,Coding/ Data Science/Logistic,Master Plan development,Not Requested
-INT-2027-003,Continuous Improvement,Junior Continuous Improvement trainee,2,Industrial Engineering,Bachelor's Degree,Apr.27 - Feb.28,Lean fundamental,"Value Strean analyst, 5S&PI best practice",Open
-INT-2027-004,EI-APU,Engineering Improvement Intern,2,"— Mechanical Engineering (สาขาวิชาวิศวกรรมเครื่องกล)
-— Industrial Engineering (สาขาวิชาวิศวกรรมอุตสาหการ)
-— Mechatronics Engineering (สาขาวิชาวิศวกรรมเมคคาทรอนิกส์)
-— Electronics Engineering (สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์)",Bachelor's Degree,Flexible intake during Jan–Dec 2027; more than 4 months,"- Basic knowledge of industrial engineering, manufacturing processes, mechanical design, or electronic test systems
-- Ability to collect, analyze, and present production or engineering data
-- Basic knowledge of time study, line balancing, process flow, and layout improvement
-- Basic knowledge of CAD software, jig and fixture design, or mechanical drawing is an advantage
-- Basic knowledge of electrical/electronic circuits, test equipment, PLC, or programming is an advantage
-- Good analytical thinking, problem-solving, project management, and communication skills","- Conduct an improvement project with clear objectives, deliverables, and measurable results
-- Analyze production processes, cycle time, workload, and manpower utilization
-- Support line balancing, process flow, workstation layout, and productivity improvement
-- Review and improve standard time, work instructions, and manufacturing documentation
-- Design or improve jigs, fixtures, tools, or mechanical solutions based on project requirements
-- Support the improvement, validation, and documentation of electrical/electronic test systems and test equipment
-- Prepare project progress reports and present the final project results to the department",Open
-INT-2027-005,EI-APU,Manufacturing Improvement Intern,2,"— Manufacturing Technology (สาขาวิชาเทคนิคการผลิต)
-— Electronics Technology (สาขาวิชาเทคโนโลยีอิเล็กทรอนิกส์)
-— Industrial Technology (สาขาวิชาเทคนิคอุตสาหกรรม)
-— Computer Technology (สาขาวิชาเทคโนโลยีคอมพิวเตอร์)",Higher Vocational Certificate (HVC),"Flexible intake 
-during Jan–Dec 2027","- Basic knowledge of manufacturing processes, electrical/electronic systems, or mechanical work
-- Ability to use basic hand tools, measurement tools, and production equipment
-- Basic computer skills, including Microsoft Excel and data recording
-- Basic knowledge of CAD, PLC, soldering, or programming is an advantage
-- Good problem-solving, teamwork, and communication skills
-- Willingness to learn and work in a manufacturing environment","- Support production process and workstation improvement activities
-- Collect and analyze production data, cycle time, and process issues
-- Support line balancing, work instruction, and process documentation
-- Assist in designing or improving simple jigs, fixtures, tools, and workstations
-- Support electrical assembly, testing activities, and basic troubleshooting
-- Participate in continuous improvement, 5S, Kaizen, and technical knowledge-sharing activities",Open
-INT-2027-006,EI-Engineering,Data Analyst,3,Data Science,Bachelor's Degree,Apr - Sep 2027,"Database, Data Analysis",To support Engineering Data Management,Open
-INT-2027-007,EI-Engineering,Engineering Trainee,1,Mechanical/Industrial Eng.,Bachelor's Degree,May - Sep,Mechanical Design/CAD/CATIA V5 (optional),EBOM Mechanical Part,Open
-INT-2027-008,EI-Procurement,Procurement,1,"College of Arts, Media and Technology (CAMT) (วิทยาลัยศิลปะ สื่อ และเทคโนโลยี) / Data Science (สาขาวิชาวิทยาการข้อมูล)",Bachelor's Degree,2027-2028,,,Open
-INT-2027-009,EI-QA,Engineer's assistance,1,Statistics (สาขาวิชาสถิติ),Bachelor's Degree,May - Aug 2027,Understanding of the information and able to,Supported Aero Excellence projects by conducting Measurement System Analysis (MSA) and Gage R&R studies to ensure measurement system capability and process reliability.,Open
-INT-2027-010,Financial Shared Services Center,Automation for Finance,1,Data Science (สาขาวิชาวิทยาการข้อมูล)/ Information Technology (สาขาวิชาเทคโนโลยีสารสนเทศ),Bachelor's Degree,Jan - Nov 2027,"Automation, AI, Excel, Power BI",Automate finace report and manual working,Open
-INT-2027-011,Financial Shared Services Center,Finance Staff,1,Finance / Business Administration,Bachelor's Degree,Jan - Nov 2027,Basic of Accounting,Support Accounting staff,Open
-INT-2027-012,HR & HSE,Health safty & environmental(HSE) Trainee,1,"related with Occupational Health & Safety, Safety or environmental Engineer, Data information Management,  Statistic",Bachelor's Degree,Jan - Aug 2027,"English, data anlysis, MS Excel, MS power point, Power BI, AI, Vedio media creation,Hazard identification","Develop HSE database and dashboard, Support general HSE activities",Open
-INT-2027-013,HR & HSE,Trainee,1,"Business Administration
-(Mae Fah Luang University)",Bachelor's Degree,Jan-Apr 2027,"Microsoft Office (Word, Excel, Power Point), canva, prompt AI, power bi, data visualization, English Communication, Initiative Idea.","Focused on supporting recruitment & C&B activities by establishing working standards, implementing structured processes (with Lean Concept).",Open
-INT-2027-014,HR & HSE,Trainee,1,"MMIT 
-(Chiangmai University)",Bachelor's Degree,May 2027 - Feb 2028,"Microsoft Office (Word, Excel, Power Point), canva, prompt AI, power bi, data visualization,Photo and Video Editor,  English Communication, Initiative Idea.",Implement training database and support training facility,Open
-INT-2027-015,HR & HSE,Trainee,1,"Tourism Business and Events
-(Mae Fah Luang University)",Bachelor's Degree,Apr-Aug 2027,"Microsoft Office (Word, Excel, Power Point), canva, prompt AI, power bi, data visualization, English Communication, Initiative Idea.",Dedicated to creating an employee activity roadmap covering the second half of 2026 and extending into 2027.,Open
-INT-2027-016,IT Computer,IS Trainee,1,"Com science, Data science",Bachelor's Degree,JAN-DEC 2027,"Computer, data, business skills","ERP, ECQ Reports, Documents",Open
-INT-2027-017,IT Computer,IT support Trainee,1,"IT, Computer, MMIT",Bachelor's Degree,JAN-DEC 2027,"IT Hardware, Software Skill",IT Support,Open
-INT-2027-018,Industrialization,Trainee-Digitalization,1,Coding/Computer science,Bachelor's Degree,Depends on availability of the trainees,"Basic programming skill and knowledge, can use AI","Automating manual processes, creating improving dashboards, making ECQ extracts as requested",Open
-INT-2027-019,Industrialization,Trainee-Industrial,1,Engineering/Statistics,Bachelor's Degree,Depends on availability of the trainees,"Fast learner, ethusiastic, good in mathematics, some exposure and basic usage of Arean Simulation","Line balancing study, Make models in Arena simulation for shopfloor operations and office processes, analyze and present the bottlenecks",Open
-INT-2027-020,Industrialization,Trainee-Manufacturing,1,Manufacturing,Bachelor's Degree,Depends on availability of the trainees,"Knowledge of manufacturing processes, willing learn and work on real world scenarios",Manufacturing process improvement and standardization,Open
-INT-2027-021,Industrialization,Trainee-Robotics,1,Mechatronics/Manufacturing,Bachelor's Degree,Q2-2027,"Knowledge of mechatronical subjects, sensors, actuators, programming. Technical mind",Robotic Sanding Project work,Open
-INT-2027-022,Planning,Planning,1,"College of Arts, Media and Technology (CAMT) (วิทยาลัยศิลปะ สื่อ และเทคโนโลยี) / Data Science (สาขาวิชาวิทยาการข้อมูล)",Bachelor's Degree,2027-2028,,,Open
-INT-2027-023,Quality Assurance,Student Trainee,1,Modern Management and Information Technology (สาขาวิชาการจัดการสมัยใหม่และเทคโนโลยีสารสนเทศ),Bachelor's Degree,"Apr 2027 - Feb 2028
-(10 months)","- Data Analytics & Visualization – Excel, Power BI or similar tools
-- AI & Digital Tools – Ability to utilize AI tools to support data analysis, reporting and productivity
-- Process Automation – Basic knowledge of workflow automation or low-code tools
-- Data Management – Ability to organize, validate and interpret data effectively
-- Digital Mindset & Continuous Improvement – Interest in applying technology to improve work processes
-- Analytical Thinking & Problem Solving
-- Good English Communication Skills","- Develop Quality dashboards and data visualization to support KPI monitoring and management decision-making.
-- Explore and apply AI & digital tools to improve Quality processes and productivity.
-- Support process automation and digitalization projects within Quality.
-- Analyze Quality data to identify trends, gaps, and improvement opportunities.
-- Support QMS & SMS activities, including audits, action tracking, performance monitoring, safety promotion campaigns, awareness activities, and employee engagement initiatives.
-- Participate in continuous improvement projects and propose innovative solutions for Quality processes",Open
-INT-2027-024,Quality Assurance,Trainee,1,"College of Arts, Media and Technology (CAMT) (วิทยาลัยศิลปะ สื่อ และเทคโนโลยี)
-— Software Engineering (สาขาวิชาวิศวกรรมซอฟต์แวร์) 
-— Modern Management and Information Technology (สาขาวิชาการจัดการสมัยใหม่และเทคโนโลยีสารสนเทศ)
-— Digital Industry Integration (สาขาวิชาการบูรณาการอุตสาหกรรมดิจิทัล)",Bachelor's Degree,"Apr 2027-Feb 2028
-(10 Months)","- Data analytics & Visualization ; Data Cleaning, Validation, Summary, Trend Analysis
-- AI & Digital Tools ; 
-- Process Automation
-- Document Automation
-- Digital Mindset & Continuous Improvement
-- Analytical Thinking & Problem Sloving
-- Good English Communication Skills
-- Python Programming
-- Database และ SQL
-- System Analysis
-- Soft Skill ;  Comunication skill","- Develop quality Tool to connection between issue format, program issues and database
-- Program to summarize the containment action for any issues.
-- Power Bi Dashboard to monitoring capability of QA manpower
-- Quality customer standard database
-- Support quality department activities as we assign.",Open
-INT-2027-025,Sourcing,Data trainer,1,Data Science,,"Jan 2027 - December 2027
-No specific period",Data analysis / Data extraction,ERP process improvement / Data extraction / Data analysis / Dashboard developement,Open
-INT-2027-026,Supply Chain,Engineering,1,Industrial Engineering,Bachelor's Degree,May-Oct 2027,"Process flow design, Excel, Planning",To study the End to End supply chain process flow and improve the process by implement digital solution or any compliance tool from Safran to reduce waste in the process.,Open
+INT-2027-003,Continuous Improvement,Continuous Improvement Trainee,2,Industrial Engineering,Bachelor's Degree,April 2027–February 2028,Lean fundamental,"Value Stream analysis, 5S, and PI best practices",Open
+INT-2027-004,EI-APU,Engineering Improvement Trainee,2,Mechanical Engineering / Industrial Engineering / Mechatronics Engineering / Electronics Engineering,Bachelor's Degree,Flexible intake throughout January–December 2027; minimum 4 months,"- Basic knowledge of industrial engineering, manufacturing processes, mechanical design, or electronic test systems - Ability to collect, analyze, and present production or engineering data - Basic knowledge of time study, line balancing, process flow, and layout improvement - Basic knowledge of CAD software, jig and fixture design, or mechanical drawing is an advantage - Basic knowledge of electrical/electronic circuits, test equipment, PLC, or programming is an advantage - Good analytical thinking, problem-solving, project management, and communication skills","- Conduct an improvement project with clear objectives, deliverables, and measurable results - Analyze production processes, cycle time, workload, and manpower utilization - Support line balancing, process flow, workstation layout, and productivity improvement - Review and improve standard time, work instructions, and manufacturing documentation - Design or improve jigs, fixtures, tools, or mechanical solutions based on project requirements - Support the improvement, validation, and documentation of electrical/electronic test systems and test equipment - Prepare project progress reports and present the final project results to the department",Open
+INT-2027-005,EI-APU,Manufacturing Improvement Trainee,2,Manufacturing Technology / Electronics Technology / Industrial Technology / Computer Technology,Higher Vocational Certificate,Flexible intake throughout January–December 2027,"- Basic knowledge of manufacturing processes, electrical/electronic systems, or mechanical work - Ability to use basic hand tools, measurement tools, and production equipment - Basic computer skills, including Microsoft Excel and data recording - Basic knowledge of CAD, PLC, soldering, or programming is an advantage - Good problem-solving, teamwork, and communication skills - Willingness to learn and work in a manufacturing environment","- Support production process and workstation improvement activities - Collect and analyze production data, cycle time, and process issues - Support line balancing, work instruction, and process documentation - Assist in designing or improving simple jigs, fixtures, tools, and workstations - Support electrical assembly, testing activities, and basic troubleshooting - Participate in continuous improvement, 5S, Kaizen, and technical knowledge-sharing activities",Open
+INT-2027-006,EI-Engineering,Engineering Data Analyst Trainee,3,Data Science,Bachelor's Degree,April–September 2027,"Database, Data Analysis",To support Engineering Data Management,Open
+INT-2027-007,EI-Engineering,Engineering Design Trainee,1,Mechanical Engineering / Industrial Engineering,Bachelor's Degree,May–September 2027,Mechanical Design/CAD/CATIA V5 (optional),EBOM Mechanical Part,Open
+INT-2027-008,EI-Procurement,Procurement Data Trainee,1,Data Science,Bachelor's Degree,2027–2028,,,Open
+INT-2027-009,EI-QA,Quality Engineering Trainee,1,Statistics,Bachelor's Degree,May–August 2027,Understanding of the information and able to,Supported Aero Excellence projects by conducting Measurement System Analysis (MSA) and Gage R&R studies to ensure measurement system capability and process reliability.,Open
+INT-2027-010,Financial Shared Services Center,Finance Automation Trainee,1,Data Science / Information Technology,Bachelor's Degree,January–November 2027,"Automation, AI, Excel, Power BI",Automate finance report and manual working,Open
+INT-2027-011,Financial Shared Services Center,Finance Trainee,1,Finance / Business Administration,Bachelor's Degree,January–November 2027,Basic accounting knowledge,Support Accounting staff,Open
+INT-2027-012,HR & HSE,HSE Trainee,1,Occupational Health and Safety / Environmental Engineering / Information Management / Statistics,Bachelor's Degree,January–August 2027,"English, data analysis, MS Excel, MS power point, Power BI, AI, video media creation,Hazard identification","Develop HSE database and dashboard, Support general HSE activities",Open
+INT-2027-013,HR & HSE,HR Recruitment & Compensation Trainee,1,Business Administration,Bachelor's Degree,January–April 2027,"Microsoft Office (Word, Excel, Power Point), Canva, AI prompting, Power BI, data visualization, English Communication, Initiative Idea.","Focused on supporting recruitment & C&B activities by establishing working standards, implementing structured processes (with Lean Concept).",Open
+INT-2027-014,HR & HSE,Employee Activities Trainee,1,Tourism Business and Events,Bachelor's Degree,April–August 2027,"Microsoft Office (Word, Excel, Power Point), Canva, AI prompting, Power BI, data visualization,Photo and Video Editor, English Communication, Initiative Idea.",Implement training database and support training facility,Open
+INT-2027-015,HR & HSE,Learning & Development Trainee,1,Modern Management and Information Technology,Bachelor's Degree,May 2027–February 2028,"Microsoft Office (Word, Excel, Power Point), Canva, AI prompting, Power BI, data visualization, English Communication, Initiative Idea.",Dedicated to creating an employee activity roadmap covering the second half of 2026 and extending into 2027.,Open
+INT-2027-016,IT Computer,Information Systems Trainee,1,Computer Science / Data Science,Bachelor's Degree,January–December 2027,"Computer, data, and business skills","ERP, ECQ Reports, Documents",Open
+INT-2027-017,IT Computer,IT Support Trainee,1,Information Technology / Computer Science / Modern Management and Information Technology,Bachelor's Degree,January–December 2027,IT hardware and software skills,IT support,Open
+INT-2027-018,Industrialization,Digitalization Trainee,1,Computer Science / Information Technology,Bachelor's Degree,Flexible intake throughout 2027,"Basic programming skill and knowledge, can use AI","Automate manual processes and improve dashboards, making ECQ extracts as requested",Open
+INT-2027-019,Industrialization,Industrial Engineering Trainee,1,Engineering / Statistics,Bachelor's Degree,Flexible intake throughout 2027,"Fast learner, enthusiastic, good in mathematics, some exposure and basic usage of Arena Simulation","Line balancing study, Make models in Arena simulation for shopfloor operations and office processes, analyze and present the bottlenecks",Open
+INT-2027-020,Industrialization,Manufacturing Engineering Trainee,1,Manufacturing Technology,Bachelor's Degree,Flexible intake throughout 2027,"Knowledge of manufacturing processes, willing learn and work on real world scenarios",Manufacturing process improvement and standardization,Open
+INT-2027-021,Industrialization,Robotics Engineering Trainee,1,Mechatronics Engineering / Manufacturing Technology,Bachelor's Degree,Q2 2027,"Knowledge of mechatronical subjects, sensors, actuators, programming. Technical mind",Robotic sanding project,Open
+INT-2027-022,Planning,Planning Data Trainee,1,Data Science,Bachelor's Degree,2027–2028,,,Open
+INT-2027-023,Quality Assurance,Quality Data & Digitalization Trainee,1,Modern Management and Information Technology,Bachelor's Degree,April 2027–February 2028,"- Data Analytics & Visualization – Excel, Power BI or similar tools - AI & Digital Tools – Ability to utilize AI tools to support data analysis, reporting and productivity - Process Automation – Basic knowledge of workflow automation or low-code tools - Data Management – Ability to organize, validate and interpret data effectively - Digital Mindset & Continuous Improvement – Interest in applying technology to improve work processes - Analytical Thinking & Problem Solving - Good English Communication Skills","- Develop Quality dashboards and data visualization to support KPI monitoring and management decision-making. - Explore and apply AI & digital tools to improve Quality processes and productivity. - Support process automation and digitalization projects within Quality. - Analyze Quality data to identify trends, gaps, and improvement opportunities. - Support QMS & SMS activities, including audits, action tracking, performance monitoring, safety promotion campaigns, awareness activities, and employee engagement initiatives. - Participate in continuous improvement projects and propose innovative solutions for Quality processes",Open
+INT-2027-024,Quality Assurance,Quality Digital Solutions Trainee,1,Software Engineering / Modern Management and Information Technology / Digital Industry Integration,Bachelor's Degree,April 2027–February 2028,"- Data analytics & Visualization ; Data Cleaning, Validation, Summary, Trend Analysis - AI & Digital Tools ; - Process Automation - Document Automation - Digital Mindset & Continuous Improvement - Analytical Thinking & Problem Solving - Good English Communication Skills - Python Programming - Database และ SQL - System Analysis - Soft Skill ; Communication skill","- Develop quality Tool to connection between issue format, program issues and database - Program to summarize the containment action for any issues. - Power BI Dashboard to monitoring capability of QA manpower - Quality customer standard database - Support quality department activities as we assign.",Open
+INT-2027-025,Sourcing,Data Analytics Trainee,1,Data Science,Not specified,January–December 2027,Data analysis / Data extraction,ERP process improvement / data extraction / data analysis / dashboard development,Open
+INT-2027-026,Supply Chain,Supply Chain Engineering Trainee,1,Industrial Engineering,Bachelor's Degree,May–October 2027,"Process flow design, Excel, planning",To study the End to End supply chain process flow and improve the process by implement digital solution or any compliance tool from Safran to reduce waste in the process.,Open
