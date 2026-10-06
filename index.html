@@ -252,6 +252,13 @@ function applyManagedCopyAndSite(managed){
     I18N.th = Object.assign({}, I18N.th||{}, managed.copy.th||{});
   }
   const site=managed.site||{};
+  if(window.currentLang && window.I18N){
+    document.querySelectorAll('[data-i18n]').forEach(el=>{
+      const k=el.dataset.i18n;
+      const v=I18N[currentLang]?.[k];
+      if(v!=null) el.innerHTML=String(v).replace(/\n/g,'<br>');
+    });
+  }
   const hero=document.querySelector('.heroText h1');
   if(hero){ const title=currentLang==='th'?(site.hero_title_th||'โอกาสฝึกงาน ปี 2027'):(site.hero_title_en||'2027 INTERNSHIP OPPORTUNITIES'); hero.innerHTML=String(title).replace(/\n/g,'<br>'); }
   document.title=currentLang==='th'?(site.page_title_th||document.title):(site.page_title_en||document.title);
