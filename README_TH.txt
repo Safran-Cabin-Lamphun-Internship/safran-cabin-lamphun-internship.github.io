@@ -1,26 +1,14 @@
 SAFRAN CABIN LAMPHUN – INTERNSHIP PORTAL
 
-FINAL PACKAGE
-- index.html = V24 V10 BOXES public homepage
-- admin/index.html = latest Easy Admin
-- data/site-content.json = latest internship data
+FINAL LANGUAGE VERSION
+- หน้าเว็บหลัก = V24 กล่อง ๆ
+- EN = ข้อมูลภาษาอังกฤษเท่านั้น
+- TH = ข้อมูลภาษาไทยเท่านั้น
+- Department และ Position = English ทั้ง EN และ TH
+- Faculty / Major ไม่แสดงชื่อมหาวิทยาลัย
+- Admin + Preview + Download JSON รวมอยู่แล้ว
 
-GitHub upload:
-1. Delete the old website files in the repository.
-2. Upload the contents of this package to the repository root.
-3. The final structure must be:
-
+GitHub structure:
 index.html
-admin/
-  index.html
-data/
-  site-content.json
-
-Public website:
-https://safran-cabin-lamphun-internship.github.io/
-
-Admin:
-https://safran-cabin-lamphun-internship.github.io/admin/
-
-Note:
-The Admin page is an editing tool, not secure authentication. Do not treat it as a password-protected private admin system.
+admin/index.html
+data/site-content.json
