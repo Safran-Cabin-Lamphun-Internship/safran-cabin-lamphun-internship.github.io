@@ -381,10 +381,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
+      "skills_en": "-",
+      "skills_th": "-",
+      "responsibilities_en": "-",
+      "responsibilities_th": "-"
     },
     {
       "internship_id": "INT-2027-009",
