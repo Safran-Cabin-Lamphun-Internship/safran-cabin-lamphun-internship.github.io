@@ -257,7 +257,7 @@
     {
       "internship_id": "INT-2027-003",
       "department": "Continuous Improvement",
-      "position": "Continuous Improvement Trainee",
+      "position": "Junior Continuous Improvement Trainee",
       "quantity": 2,
       "major": "Industrial Engineering",
       "education": "Bachelor's Degree",
@@ -278,7 +278,7 @@
     },
     {
       "internship_id": "INT-2027-004",
-      "department": "Electrical & Interior – APU",
+      "department": "EI– APU",
       "position": "Engineering Improvement Trainee",
       "quantity": 2,
       "major": "Mechanical Engineering / Industrial Engineering / Mechatronics Engineering / Electronics Engineering",
@@ -293,14 +293,14 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "Basic knowledge of industrial engineering, manufacturing processes, mechanical design, or electronic test systems",
-      "skills_th": "มีความรู้พื้นฐานด้านวิศวกรรมอุตสาหการ กระบวนการผลิต การออกแบบเครื่องกล หรือระบบทดสอบอิเล็กทรอนิกส์",
-      "responsibilities_en": "Conduct an improvement project with clear objectives, deliverables, and measurable results",
-      "responsibilities_th": "ดำเนินโครงการปรับปรุงกระบวนการโดยมีวัตถุประสงค์ ผลลัพธ์ และตัวชี้วัดที่ชัดเจน"
+      "skills_en": "- Basic knowledge of industrial engineering, manufacturing processes, mechanical design, or electronic test systems\n- Ability to collect, analyze, and present production or engineering data\n- Basic knowledge of time study, line balancing, process flow, and layout improvement\n- Basic knowledge of CAD software, jig and fixture design, or mechanical drawing is an advantage\n- Basic knowledge of electrical/electronic circuits, test equipment, PLC, or programming is an advantage\n- Good analytical thinking, problem-solving, project management, and communication skills\"",
+      "skills_th": "- มีความรู้พื้นฐานด้านวิศวกรรมอุตสาหการ กระบวนการผลิต การออกแบบเครื่องกล หรือระบบทดสอบทางอิเล็กทรอนิกส์\n- สามารถรวบรวม วิเคราะห์ และนำเสนอข้อมูลด้านการผลิตหรือข้อมูลทางวิศวกรรมได้\n- มีความรู้พื้นฐานด้านการศึกษาเวลา (Time Study), การปรับสมดุลสายการผลิต (Line Balancing), การวิเคราะห์ลำดับกระบวนการ (Process Flow) และการปรับปรุงผังการทำงาน (Layout Improvement)\n- หากมีความรู้พื้นฐานด้านโปรแกรม CAD การออกแบบจิ๊กและฟิกซ์เจอร์ หรือการเขียนแบบเครื่องกล จะได้รับการพิจารณาเป็นพิเศษ\n- หากมีความรู้พื้นฐานด้านวงจรไฟฟ้า/อิเล็กทรอนิกส์ เครื่องมือทดสอบ PLC หรือการเขียนโปรแกรม จะได้รับการพิจารณาเป็นพิเศษ\n- มีทักษะการคิดวิเคราะห์ การแก้ไขปัญหา การบริหารจัดการโครงการ และการสื่อสารที่ดี",
+      "responsibilities_en": "- Conduct an improvement project with clear objectives, deliverables, and measurable results\n- Analyze production processes, cycle time, workload, and manpower utilization\n- Support line balancing, process flow, workstation layout, and productivity improvement\n- Review and improve standard time, work instructions, and manufacturing documentation\n- Design or improve jigs, fixtures, tools, or mechanical solutions based on project requirements\n- Support the improvement, validation, and documentation of electrical/electronic test systems and test equipment\n- Prepare project progress reports and present the final project results to the department",
+      "responsibilities_th": "- ดำเนินโครงการปรับปรุงกระบวนการ โดยมีวัตถุประสงค์ ผลลัพธ์ที่ต้องส่งมอบ และผลลัพธ์ที่สามารถวัดผลได้อย่างชัดเจน\n- วิเคราะห์กระบวนการผลิต เวลาในการผลิต (Cycle Time) ภาระงาน และการใช้กำลังคนให้เกิดประสิทธิภาพ\n- สนับสนุนการปรับสมดุลสายการผลิต (Line Balancing) การวิเคราะห์ลำดับกระบวนการ (Process Flow) การจัดผังสถานีงาน และการปรับปรุงประสิทธิภาพการผลิต\n- ทบทวนและปรับปรุงเวลามาตรฐาน (Standard Time) คู่มือการปฏิบัติงาน (Work Instruction) และเอกสารที่เกี่ยวข้องกับกระบวนการผลิต\n- ออกแบบหรือปรับปรุงจิ๊ก ฟิกซ์เจอร์ เครื่องมือ หรือแนวทางด้านเครื่องกลให้เหมาะสมกับความต้องการของโครงการ\n- สนับสนุนการปรับปรุง การตรวจสอบความถูกต้อง (Validation) และการจัดทำเอกสารสำหรับระบบทดสอบไฟฟ้า/อิเล็กทรอนิกส์และอุปกรณ์ทดสอบ\n- จัดทำรายงานความคืบหน้าของโครงการ และนำเสนอผลลัพธ์ของโครงการต่อหน่วยงาน"
     },
     {
       "internship_id": "INT-2027-005",
-      "department": "Electrical & Interior – APU",
+      "department": "EI– APU",
       "position": "Manufacturing Improvement Trainee",
       "quantity": 2,
       "major": "Manufacturing Technology / Electronics Technology / Industrial Technology / Computer Technology",
@@ -315,14 +315,14 @@
       "education_th": "ประกาศนียบัตรวิชาชีพชั้นสูง (ปวส.)",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "Ability to collect, analyze, and present production or engineering data",
-      "skills_th": "สามารถรวบรวม วิเคราะห์ และนำเสนอข้อมูลด้านการผลิตหรือวิศวกรรม",
-      "responsibilities_en": "Analyze production processes, cycle time, workload, and manpower utilization",
-      "responsibilities_th": "วิเคราะห์กระบวนการผลิต รอบเวลา ปริมาณงาน และการใช้กำลังคน"
+      "skills_en": "\"- Basic knowledge of manufacturing processes, electrical/electronic systems, or mechanical work\n- Ability to use basic hand tools, measurement tools, and production equipment\n- Basic computer skills, including Microsoft Excel and data recording\n- Basic knowledge of CAD, PLC, soldering, or programming is an advantage\n- Good problem-solving, teamwork, and communication skills\n- Willingness to learn and work in a manufacturing environment\"",
+      "skills_th": "- มีความรู้พื้นฐานเกี่ยวกับกระบวนการผลิต ระบบไฟฟ้า/อิเล็กทรอนิกส์ หรืองานด้านเครื่องกล\n- สามารถใช้เครื่องมือช่างพื้นฐาน เครื่องมือวัด และอุปกรณ์ในกระบวนการผลิตได้\n- มีทักษะการใช้คอมพิวเตอร์พื้นฐาน โดยเฉพาะ Microsoft Excel และการบันทึกข้อมูล\n- หากมีความรู้พื้นฐานด้าน CAD, PLC, การบัดกรี (Soldering) หรือการเขียนโปรแกรม จะได้รับการพิจารณาเป็นพิเศษ\n- มีทักษะในการแก้ไขปัญหา สามารถทำงานเป็นทีม และมีทักษะในการสื่อสารที่ดี\n- มีความกระตือรือร้นในการเรียนรู้ และพร้อมทำงานในสภาพแวดล้อมด้านการผลิต",
+      "responsibilities_en": "- Support production process and workstation improvement activities\n- Collect and analyze production data, cycle time, and process issues\n- Support line balancing, work instruction, and process documentation\n- Assist in designing or improving simple jigs, fixtures, tools, and workstations\n- Support electrical assembly, testing activities, and basic troubleshooting\n- Participate in continuous improvement, 5S, Kaizen, and technical knowledge-sharing activities",
+      "responsibilities_th": "- สนับสนุนกระบวนการผลิตและกิจกรรมปรับปรุงสถานีงาน\n- เก็บรวบรวมและวิเคราะห์ข้อมูลการผลิต เวลาในการผลิต (Cycle Time) และปัญหาที่เกิดขึ้นในกระบวนการ\n- สนับสนุนการปรับสมดุลสายการผลิต (Line Balancing) การจัดทำคู่มือการปฏิบัติงาน (Work Instruction) และเอกสารเกี่ยวกับกระบวนการผลิต\n- ช่วยออกแบบหรือปรับปรุงจิ๊ก ฟิกซ์เจอร์ เครื่องมือ และสถานีงานเบื้องต้น\n- สนับสนุนงานประกอบชิ้นส่วนไฟฟ้า การทดสอบ และการแก้ไขปัญหาเบื้องต้น\n- มีส่วนร่วมในกิจกรรมการปรับปรุงอย่างต่อเนื่อง (Continuous Improvement), 5S, Kaizen และการแลกเปลี่ยนความรู้ด้านเทคนิค"
     },
     {
       "internship_id": "INT-2027-006",
-      "department": "Electrical & Interior – Engineering",
+      "department": "EI – Engineering",
       "position": "Data Analyst Trainee",
       "quantity": 3,
       "major": "Data Science",
@@ -337,14 +337,14 @@
       "education_th": "ปริญญาตรี",
       "period_en": "April 2027 - September 2027",
       "period_th": "เมษายน 2027 - กันยายน 2027",
-      "skills_en": "Basic knowledge of time study, line balancing, process flow, and layout improvement",
-      "skills_th": "มีความรู้พื้นฐานด้านการศึกษางาน การปรับสมดุลสายการผลิต การวิเคราะห์กระบวนการ และการปรับปรุง Layout",
-      "responsibilities_en": "Support line balancing, process flow, workstation layout, and productivity improvement",
-      "responsibilities_th": "สนับสนุนการปรับสมดุลสายการผลิต กระบวนการทำงาน Layout และการเพิ่มประสิทธิภาพ"
+      "skills_en": "Database, Data Analysis\n",
+      "skills_th": "ฐานข้อมูล (Database), การวิเคราะห์ข้อมูล (Data Analysis)",
+      "responsibilities_en": "To support Engineering Data Management\t\t\n",
+      "responsibilities_th": "เพื่อสนับสนุนการจัดการข้อมูลด้านวิศวกรรม"
     },
     {
       "internship_id": "INT-2027-007",
-      "department": "Electrical & Interior – Engineering",
+      "department": "EI – Engineering",
       "position": "Engineering Trainee",
       "quantity": 1,
       "major": "Mechanical Engineering / Industrial Engineering",
@@ -366,7 +366,7 @@
     },
     {
       "internship_id": "INT-2027-008",
-      "department": "Electrical & Interior – Procurement",
+      "department": "Procurement",
       "position": "Procurement Trainee",
       "quantity": 1,
       "major": "Data Science",
@@ -375,20 +375,20 @@
       "skills": "Basic knowledge of electrical/electronic circuits, test equipment, PLC, or programming is an advantage",
       "responsibilities": "Design or improve jigs, fixtures, tools, or mechanical solutions based on project requirements",
       "status": "Open",
-      "major_en": "Data Science",
+      "major_en": "College of Arts, Media and Technology (CAMT) / Data Science / Logistics and Supply Chain Management / Materials Science\n",
       "major_th": "วิทยาการข้อมูล",
       "education_en": "Bachelor's Degree",
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "Basic knowledge of electrical/electronic circuits, test equipment, PLC, or programming is an advantage",
-      "skills_th": "หากมีความรู้พื้นฐานด้านวงจรไฟฟ้า/อิเล็กทรอนิกส์ อุปกรณ์ทดสอบ PLC หรือการเขียนโปรแกรมจะเป็นข้อได้เปรียบ",
-      "responsibilities_en": "Design or improve jigs, fixtures, tools, or mechanical solutions based on project requirements",
-      "responsibilities_th": "ออกแบบหรือปรับปรุง Jig, Fixture เครื่องมือ หรือโซลูชันด้านเครื่องกลตามความต้องการของโครงการ"
+      "skills_en": "",
+      "skills_th": "",
+      "responsibilities_en": "",
+      "responsibilities_th": ""
     },
     {
       "internship_id": "INT-2027-009",
-      "department": "Electrical & Interior – Quality Assurance",
+      "department": "Quality Assurance",
       "position": "Engineering Assistant Trainee",
       "quantity": 1,
       "major": "Statistics",
@@ -403,10 +403,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "May 2027 - August 2027",
       "period_th": "พฤษภาคม 2027 - สิงหาคม 2027",
-      "skills_en": "Good analytical thinking, problem-solving, project management, and communication skills",
-      "skills_th": "มีทักษะการคิดวิเคราะห์ การแก้ปัญหา การบริหารโครงการ และการสื่อสารที่ดี",
-      "responsibilities_en": "Support the improvement, validation, and documentation of electrical/electronic test systems and test equipment",
-      "responsibilities_th": "สนับสนุนการปรับปรุง การทดสอบยืนยันผล และการจัดทำเอกสารสำหรับระบบและอุปกรณ์ทดสอบไฟฟ้า/อิเล็กทรอนิกส์"
+      "skills_en": "Understanding of the information ",
+      "skills_th": "ความเข้าใจในข้อมูล ",
+      "responsibilities_en": "Supported Aero Excellence projects by conducting Measurement System Analysis (MSA) and Gage R&R studies to ensure measurement system capability and process reliability.\t\t\n",
+      "responsibilities_th": "สนับสนุนโครงการ Aero Excellence โดยดําเนินการวิเคราะห์ระบบการวัด (MSA) และการศึกษา Gage R&R เพื่อให้มั่นใจถึงความสามารถของระบบการวัดและความน่าเชื่อถือของกระบวนการ"
     },
     {
       "internship_id": "INT-2027-010",
@@ -425,10 +425,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "January 2027 - November 2027",
       "period_th": "มกราคม 2027 - พฤศจิกายน 2027",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "Prepare project progress reports and present the final project results to the department",
-      "responsibilities_th": "จัดทำรายงานความคืบหน้าโครงการและนำเสนอผลโครงการต่อแผนก"
+      "skills_en": "Automation, AI, Excel, Power BI\n",
+      "skills_th": "ระบบอัตโนมัติสำหรับรายงานทางการเงิน และลดขั้นตอนการทำงาน",
+      "responsibilities_en": "Automate finance report and manual working\t\t\n",
+      "responsibilities_th": "พัฒนาระบบอัตโนมัติสำหรับกระบวนการจัดทำรายงานทางการเงิน และลดขั้นตอนการทำงานแบบ Manual"
     },
     {
       "internship_id": "INT-2027-011",
@@ -447,10 +447,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "January 2027 - November 2027",
       "period_th": "มกราคม 2027 - พฤศจิกายน 2027",
-      "skills_en": "Basic knowledge of manufacturing processes, electrical/electronic systems, or mechanical work",
-      "skills_th": "มีความรู้พื้นฐานด้านกระบวนการผลิต ระบบไฟฟ้า/อิเล็กทรอนิกส์ หรืองานเครื่องกล",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
+      "skills_en": "Basic of Accounting ",
+      "skills_th": "มีความรู้พื้นฐานด้านบัญชี",
+      "responsibilities_en": "Support Accounting staff\t\t\n",
+      "responsibilities_th": "สนับสนุนงานของเจ้าหน้าที่บัญชี\t"
     },
     {
       "internship_id": "INT-2027-012",
@@ -469,10 +469,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "January 2027 - November 2027",
       "period_th": "มกราคม 2027 - พฤศจิกายน 2027",
-      "skills_en": "Ability to use basic hand tools, measurement tools, and production equipment",
-      "skills_th": "สามารถใช้เครื่องมือช่าง เครื่องมือวัด และอุปกรณ์การผลิตพื้นฐานได้",
-      "responsibilities_en": "Support production process and workstation improvement activities",
-      "responsibilities_th": "สนับสนุนกิจกรรมปรับปรุงกระบวนการผลิตและสถานีงาน"
+      "skills_en": "English, data analysis, MS Excel, MS power point, Power BI, AI, Video media creation, Hazard identification\n",
+      "skills_th": "ทักษะภาษาอังกฤษ การวิเคราะห์ข้อมูล การใช้งาน Microsoft Excel, Microsoft PowerPoint และ Power BI ความเข้าใจด้านปัญญาประดิษฐ์ (AI) การสร้างสรรค์สื่อวิดีโอ ตลอดจนการระบุอันตรายในพื้นที่ปฏิบัติงาน",
+      "responsibilities_en": "Develop HSE database and dashboard, Support general HSE activities\t\t\n",
+      "responsibilities_th": "พัฒนาฐานข้อมูลและแดชบอร์ดด้านความปลอดภัย อาชีวอนามัย และสิ่งแวดล้อม (HSE) รวมถึงสนับสนุนกิจกรรมด้าน HSE ทั่วไป"
     },
     {
       "internship_id": "INT-2027-013",
@@ -491,10 +491,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "January 2027 - April 2027",
       "period_th": "มกราคม 2027 - เมษายน 2027",
-      "skills_en": "Basic computer skills, including Microsoft Excel and data recording",
-      "skills_th": "มีทักษะคอมพิวเตอร์พื้นฐาน รวมถึง Microsoft Excel และการบันทึกข้อมูล",
-      "responsibilities_en": "Collect and analyze production data, cycle time, and process issues",
-      "responsibilities_th": "รวบรวมและวิเคราะห์ข้อมูลการผลิต รอบเวลา และปัญหาของกระบวนการ"
+      "skills_en": "Microsoft Office (Word, Excel, Power Point), canva, prompt AI, power bi, data visualization, English Communication, Initiative Idea.\n",
+      "skills_th": "มีความชำนาญในการใช้โปรแกรม Microsoft Office (Word, Excel, PowerPoint) และ Canva รวมถึงการใช้งาน Prompt AI, Power BI และการทำ Data Visualization เพื่อนำเสนอข้อมูลอย่างมีประสิทธิภาพ พร้อมทั้งมีทักษะการสื่อสารภาษาอังกฤษและความคิดริเริ่มสร้างสรรค์",
+      "responsibilities_en": "Focused on supporting recruitment & C&B activities by establishing working standards, implementing structured processes (with Lean Concept)",
+      "responsibilities_th": "มุ่งเน้นการสนับสนุนกิจกรรมสรรหาบุคลากร (Recruitment) และงานบริหารตอบแทนและสวัสดิการ (C&B) โดยการจัดทำมาตรฐานการทำงาน และปรับใช้กระบวนการทำงานอย่างเป็นระบบด้วยแนวคิดแบบ ลีน (Lean Concept)"
     },
     {
       "internship_id": "INT-2027-014",
@@ -513,10 +513,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "May 2027 - February 2028",
       "period_th": "พฤษภาคม 2027 - กุมภาพันธ์ 2028",
-      "skills_en": "Basic knowledge of CAD, PLC, soldering, or programming is an advantage",
-      "skills_th": "หากมีความรู้ด้าน CAD, PLC การบัดกรี หรือการเขียนโปรแกรมจะเป็นข้อได้เปรียบ",
-      "responsibilities_en": "Support line balancing, work instruction, and process documentation",
-      "responsibilities_th": "สนับสนุนการปรับสมดุลสายการผลิต วิธีการทำงาน และเอกสารกระบวนการ"
+      "skills_en": "Microsoft Office (Word, Excel, Power Point), canva, prompt AI, power bi, data visualization,Photo and Video Editor,  English Communication, Initiative Idea.",
+      "skills_th": "มีความชำนาญในการใช้โปรแกรม Microsoft Office (Word, Excel, PowerPoint) และ Canva รวมถึงการใช้งาน Prompt AI, Power BI และการทำ Data Visualization เพื่อนำเสนอข้อมูลอย่างมีประสิทธิภาพ พร้อมทั้งมีทักษะการสื่อสารภาษาอังกฤษและความคิดริเริ่มสร้างสรรค์",
+      "responsibilities_en": "Implement training database and support training facility\t\t",
+      "responsibilities_th": "จัดทำและพัฒนาฐานข้อมูลการฝึกอบรม (Training Database) รวมถึงดูแลและสนับสนุนการจัดเตรียมสถานที่และอุปกรณ์สำหรับการฝึกอบรม (Training Facility)"
     },
     {
       "internship_id": "INT-2027-015",
@@ -535,10 +535,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "April 2027 - August 2027",
       "period_th": "เมษายน 2027 - สิงหาคม 2027",
-      "skills_en": "Good problem-solving, teamwork, and communication skills",
-      "skills_th": "มีทักษะการแก้ปัญหา การทำงานเป็นทีม และการสื่อสารที่ดี",
-      "responsibilities_en": "Assist in designing or improving simple jigs, fixtures, tools, and workstations",
-      "responsibilities_th": "ช่วยออกแบบหรือปรับปรุง Jig, Fixture เครื่องมือ และสถานีงาน"
+      "skills_en": "Microsoft Office (Word, Excel, Power Point), canva, prompt AI, power bi, data visualization,Photo and Video Editor,  English Communication, Initiative Idea.\n",
+      "skills_th": "มีความชำนาญในการใช้โปรแกรม Microsoft Office (Word, Excel, PowerPoint) และ Canva รวมถึงการใช้งาน Prompt AI, Power BI และการทำ Data Visualization เพื่อนำเสนอข้อมูลอย่างมีประสิทธิภาพ พร้อมทั้งมีทักษะการสื่อสารภาษาอังกฤษและความคิดริเริ่มสร้างสรรค์",
+      "responsibilities_en": "Dedicated to creating an employee activity roadmap covering the second half of 2026 and extending into 2027.\t\t\n",
+      "responsibilities_th": "มุ่งมั่นจัดทำแผนแนวทางการดำเนินกิจกรรมพนักงาน (Employee Activity Roadmap) ครอบคลุมช่วงครึ่งหลังของปี 2027 ยาวไปจนถึงปี 2028"
     },
     {
       "internship_id": "INT-2027-016",
@@ -557,10 +557,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "Willingness to learn and work in a manufacturing environment",
-      "skills_th": "พร้อมเรียนรู้และทำงานในสภาพแวดล้อมการผลิต",
-      "responsibilities_en": "Support electrical assembly, testing activities, and basic troubleshooting",
-      "responsibilities_th": "สนับสนุนงานประกอบและทดสอบระบบไฟฟ้า รวมถึงการแก้ไขปัญหาเบื้องต้น"
+      "skills_en": "Computer, data, business skills\n",
+      "skills_th": "ทักษะด้านคอมพิวเตอร์ การจัดการข้อมูล และการบริหารธุรกิจ (Computer, Data, and Business Skills)",
+      "responsibilities_en": "ERP, ECQ Reports, Documents\t\t\n",
+      "responsibilities_th": "การใช้งานระบบ ERP, การจัดทำรายงาน ECQ และการจัดการเอกสาร"
     },
     {
       "internship_id": "INT-2027-017",
@@ -579,10 +579,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "Participate in continuous improvement, 5S, Kaizen, and technical knowledge-sharing activities",
-      "responsibilities_th": "เข้าร่วมกิจกรรมการปรับปรุงอย่างต่อเนื่อง, 5S, Kaizen และการแลกเปลี่ยนความรู้ด้านเทคนิค"
+      "skills_en": "IT Hardware, Software Skill\n",
+      "skills_th": "ทักษะและความเชี่ยวชาญด้านฮาร์ดแวร์และซอฟต์แวร์ทางเทคโนโลยีสารสนเทศ (IT Hardware and Software Skills)",
+      "responsibilities_en": "IT Support\t\t\n",
+      "responsibilities_th": "การสนับสนุนและบริการด้านเทคโนโลยีสารสนเทศ (IT Support)"
     },
     {
       "internship_id": "INT-2027-018",
@@ -601,10 +601,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "Database / Data Analysis",
-      "skills_th": "ฐานข้อมูล / การวิเคราะห์ข้อมูล",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
+      "skills_en": "Basic programming skill and knowledge, can use AI\n",
+      "skills_th": "มีความรู้และทักษะพื้นฐานด้านการเขียนโปรแกรม (Programming) และสามารถประยุกต์ใช้งานเครื่องมือปัญญาประดิษฐ์ (AI) ได้",
+      "responsibilities_en": "Automating manual processes, creating improving dashboards, making ECQ extracts as requested\t\t\n",
+      "responsibilities_th": "พัฒนาระบบอัตโนมัติเพื่อลดขั้นตอนการทำงานแบบดั้งเดิม (Manual Processes) ปรับปรุงและพัฒนาแดชบอร์ดเพื่อการนำเสนอข้อมูลอย่างมีประสิทธิภาพ พร้อมทั้งจัดทำและดึงข้อมูลสรุป (ECQ Extracts) ตามที่ได้รับมอบหมาย"
     },
     {
       "internship_id": "INT-2027-019",
@@ -623,10 +623,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "To support Engineering Data Management",
-      "responsibilities_th": "สนับสนุนการจัดการข้อมูลด้านวิศวกรรม"
+      "skills_en": "Fast learner, enthusiastic, good in mathematics, some exposure and basic usage of Arean Simulation\n",
+      "skills_th": "เรียนรู้ไว มีความกระตือรือร้น มีทักษะและความถนัดด้านคณิตศาสตร์เป็นอย่างดี พร้อมทั้งมีความรู้พื้นฐานและประสบการณ์ใช้งานโปรแกรม Arena Simulation",
+      "responsibilities_en": "Line balancing study, make models in Arena simulation for shopfloor operations and office processes, analyze and present the bottlenecks\t\t",
+      "responsibilities_th": "ศึกษาการปรับสมดุลสายการผลิต (Line Balancing) จัดทำแบบจำลองจำลองสถานการณ์ด้วยโปรแกรม Arena Simulation สำหรับการปฏิบัติงานในพื้นที่การผลิต (Shopfloor Operations) และกระบวนการทำงานในสำนักงาน (Office Processes) พร้อมทั้งวิเคราะห์และนำเสนอจุดคอขวด (Bottlenecks) เพื่อปรับปรุงกระบวนการทำงาน"
     },
     {
       "internship_id": "INT-2027-020",
@@ -645,10 +645,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "Mechanical Design / CAD / CATIA V5 (optional)",
-      "skills_th": "การออกแบบเครื่องกล / CAD / CATIA V5 (ถ้ามีจะพิจารณาเป็นพิเศษ)",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
+      "skills_en": "Knowledge of manufacturing processes, willing learn and work on real world scenarios",
+      "skills_th": "มีความรู้ความเข้าใจในกระบวนการผลิต (Manufacturing Processes) พร้อมทั้งมีความมุ่งมั่นและพร้อมที่จะเรียนรู้เพื่อประยุกต์ใช้งานกับการปฏิบัติงานจริงในสถานการณ์จริง",
+      "responsibilities_en": "Manufacturing process improvement and standardization\t\t\n",
+      "responsibilities_th": "การปรับปรุงและจัดทำมาตรฐานกระบวนการผลิต (Manufacturing Process Improvement and Standardization)"
     },
     {
       "internship_id": "INT-2027-021",
@@ -667,30 +667,30 @@
       "education_th": "ปริญญาตรี",
       "period_en": "April 2027 - July 2027",
       "period_th": "เมษายน 2027 - กรกฎาคม 2027",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "EBOM Mechanical Part",
-      "responsibilities_th": "งานชิ้นส่วนเครื่องกลในระบบ EBOM"
+      "skills_en": "Knowledge of mechatronic subjects, sensors, actuators, programming. Technical mind\n",
+      "skills_th": "มีความรู้ความเข้าใจในสาขาวิศวกรรมเมคคาทรอนิกส์ ระบบเซนเซอร์ (Sensors) อุปกรณ์ขับเคลื่อน (Actuators) และการเขียนโปรแกรม พร้อมทั้งมีกระบวนการคิดเชิงเทคนิคและตรรกะทางวิศวกรรม (Technical mind)",
+      "responsibilities_en": "Robotic Sanding Project work\t\t\n",
+      "responsibilities_th": "การปฏิบัติงานและดำเนินโครงการขัดผิวชิ้นงานด้วยหุ่นยนต์ (Robotic Sanding Project)"
     },
     {
       "internship_id": "INT-2027-022",
       "department": "Planning",
       "position": "Planning Trainee",
-      "quantity": 1,
+      "quantity": "2",
       "major": "Data Science",
       "education": "Bachelor's Degree",
       "period": "Year-round",
       "skills": "No specific skills required",
       "responsibilities": "",
       "status": "Open",
-      "major_en": "Data Science",
-      "major_th": "วิทยาการข้อมูล",
+      "major_en": "College of Arts, Media and Technology (CAMT) / Data Science \n",
+      "major_th": "วิทยาลัยศิลปะ สื่อ และเทคโนโลยี / สาขาวิชาวิทยาการข้อมูล\n",
       "education_en": "Bachelor's Degree",
       "education_th": "ปริญญาตรี",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "No specific skills required",
-      "skills_th": "ไม่ได้ระบุทักษะเฉพาะ",
+      "skills_en": "",
+      "skills_th": "",
       "responsibilities_en": "",
       "responsibilities_th": ""
     },
@@ -711,15 +711,15 @@
       "education_th": "ปริญญาตรี",
       "period_en": "April 2027 - February 2028",
       "period_th": "เมษายน 2027 - กุมภาพันธ์ 2028",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "No specific responsibilities specified",
-      "responsibilities_th": "ไม่ได้ระบุหน้าที่ความรับผิดชอบเฉพาะ"
+      "skills_en": "\"- Data Analytics & Visualization – Excel, Power BI or similar tools\n- AI & Digital Tools – Ability to utilize AI tools to support data analysis, reporting and productivity\n- Process Automation – Basic knowledge of workflow automation or low-code tools\n- Data Management – Ability to organize, validate and interpret data effectively\n- Digital Mindset & Continuous Improvement – Interest in applying technology to improve work processes\n- Analytical Thinking & Problem Solving\n- Good English Communication Skills\"",
+      "skills_th": "ข้อความในรูปภาพระบุว่า:\n\nData Analytics & Visualization – Excel, Power BI or similar tools\n\nAI & Digital Tools – Ability to utilize AI tools to support data analysis, reporting and productivity\n\nProcess Automation – Basic knowledge of workflow automation or low-code tools\n\nData Management – Ability to organize, validate and interpret data effectively\n\nDigital Mindset & Continuous Improvement – Interest in applying technology to improve work processes\n\nAnalytical Thinking & Problem Solving\n\nGood English Communication Skills\n\nแปลเป็นภาษาไทยสละสลวยสำหรับใส่ใน Resume หรือ Profile สรุปทักษะ:\n\nการวิเคราะห์และการนำเสนอข้อมูลเชิงทัศน์ (Data Analytics & Visualization): มีทักษะการใช้งาน Excel, Power BI และเครื่องมือที่เกี่ยวข้อง\n\nการใช้เทคโนโลยี AI และเครื่องมือดิจิทัล (AI & Digital Tools): สามารถประยุกต์ใช้เครื่องมือ AI เพื่อสนับสนุนการวิเคราะห์ข้อมูล การจัดทำรายงาน และเพิ่มประสิทธิภาพในการทำงาน\n\nการพัฒนาระบบทำงานอัตโนมัติ (Process Automation): มีความรู้พื้นฐานเกี่ยวกับการจัดทำระบบทำงานอัตโนมัติ (Workflow Automation) และเครื่องมือ Low-Code\n\nการจัดการข้อมูล (Data Management): มีความสามารถในการจัดระเบียบ ตรวจสอบความถูกต้อง และตีความข้อมูลได้อย่างมีประสิทธิภาพ\n\nกรอบคิดเชิงดิจิทัลและการปรับปรุงอย่างต่อเนื่อง (Digital Mindset & Continuous Improvement): สนใจและมุ่งมั่นในการนำเทคโนโลยีมาประยุกต์ใช้เพื่อพัฒนาและปรับปรุงกระบวนการทำงาน\n\nการคิดเชิงวิเคราะห์และการแก้ปัญหา (Analytical Thinking & Problem Solving)\n\nทักษะการสื่อสารภาษาอังกฤษในระดับดี (Good English Communication Skills)",
+      "responsibilities_en": "\"- Develop Quality dashboards and data visualization to support KPI monitoring and management decision-making.\n- Explore and apply AI & digital tools to improve Quality processes and productivity.\n- Support process automation and digitalization projects within Quality.\n- Analyze Quality data to identify trends, gaps, and improvement opportunities.\n- Support QMS & SMS activities, including audits, action tracking, performance monitoring, safety promotion campaigns, awareness activities, and employee engagement initiatives.\n- Participate in continuous improvement projects and propose innovative solutions for Quality processes\"\t\t",
+      "responsibilities_th": "- การพัฒนาแดชบอร์ดและการนำเสนอข้อมูลเชิงทัศน์ด้านคุณภาพ (Quality Dashboards & Data Visualization):** จัดทำและพัฒนาแดชบอร์ดเพื่อสนับสนุนการติดตามดัชนีชี้วัดผลงาน (KPIs) และช่วยในการตัดสินใจของผู้บริหาร\n- การประยุกต์ใช้ AI และเครื่องมือดิจิทัล (AI & Digital Tools Application):** ศึกษาและนำเทคโนโลยี AI รวมถึงเครื่องมือดิจิทัลมาใช้เพื่อเพิ่มประสิทธิภาพและพัฒนา process งานด้านคุณภาพ\n- การสนับสนุนระบบทำงานอัตโนมัติและดิจิทัล (Process Automation & Digitalization Support):** สนับสนุนโครงการเปลี่ยนผ่านสู่ดิจิทัลและการทำระบบทำงานอัตโนมัติภายในแผนกคุณภาพ\n- การวิเคราะห์ข้อมูลด้านคุณภาพ (Quality Data Analytics):** วิเคราะห์ข้อมูลคุณภาพเพื่อค้นหาแนวโน้ม (Trends) ช่องว่างในการทำงาน (Gaps) และโอกาสในการปรับปรุงกระบวนการ\n- การสนับสนุนกิจกรรม QMS และ SMS (QMS & SMS Support):** สนับสนุนการดำเนินงานตามระบบบริหารคุณภาพ (QMS) และระบบบริหารความปลอดภัย (SMS) รวมถึงการตรวจติดตาม (Audits) การติดตามผลการดำเนินงาน การส่งเสริมกิจกรรมความปลอดภัย และโครงการสร้างความผูกพันของพนักงาน (Employee Engagement)\n- การปรับปรุงกระบวนการอย่างต่อเนื่องและการสร้างสรรค์นวัตกรรม (Continuous Improvement & Innovation):** มีส่วนร่วมในโครงการปรับปรุงงานอย่างต่อเนื่อง และนำเสนอโซลูชันนวัตกรรมใหม่ๆ เพื่อยกระดับกระบวนการทำงานด้านคุณภาพ"
     },
     {
       "internship_id": "INT-2027-024",
       "department": "Quality Assurance",
-      "position": "Quality Trainee",
+      "position": "Quality Assurance Trainee",
       "quantity": 1,
       "major": "Software Engineering / Modern Management and Information Technology / Digital Industry Integration",
       "education": "Bachelor's Degree",
@@ -727,21 +727,21 @@
       "skills": "Ability to understand and interpret information accurately",
       "responsibilities": "",
       "status": "Open",
-      "major_en": "Software Engineering / Modern Management and Information Technology / Digital Industry Integration",
-      "major_th": "วิศวกรรมซอฟต์แวร์ / การจัดการสมัยใหม่และเทคโนโลยีสารสนเทศ / การบูรณาการอุตสาหกรรมดิจิทัล",
+      "major_en": "— College of Arts, Media and Technology (CAMT) \n— Software Engineering\n— Modern Management and Information Technology\n— Digital Industry Integration",
+      "major_th": "- วิทยาลัยศิลปะ สื่อ และเทคโนโลยี (CAMT)\n- สาขาวิชาวิศวกรรมซอฟต์แวร์ (Software Engineering)\n- สาขาวิชาการจัดการสมัยใหม่และเทคโนโลยีสารสนเทศ \n- สาขาวิชาการบูรณาการอุตสาหกรรมดิจิทัล",
       "education_en": "Bachelor's Degree",
       "education_th": "ปริญญาตรี",
       "period_en": "April 2027 - February 2028",
       "period_th": "เมษายน 2027 - กุมภาพันธ์ 2028",
-      "skills_en": "Ability to understand and interpret information accurately",
-      "skills_th": "สามารถทำความเข้าใจและวิเคราะห์ข้อมูลได้อย่างถูกต้อง",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
+      "skills_en": "- Data analytics & Visualization ; Data Cleaning, Validation, Summary, Trend Analysis\n- AI & Digital Tools ; \n- Process Automation\n- Document Automation\n- Digital Mindset & Continuous Improvement\n- Analytical Thinking & Problem Sloving\n- Good English Communication Skills\n- Python Programming\n- Database และ SQL\n- System Analysis\n- Soft Skill ;  Comunication skill",
+      "skills_th": "- การวิเคราะห์และการนำเสนอข้อมูลเชิงทัศน์ (Data Analytics & Visualization): การทำความสะอาดข้อมูล (Data Cleaning) การตรวจสอบความถูกต้อง (Validation) การสรุปผลข้อมูล (Data Summary) และการวิเคราะห์แนวโน้ม (Trend Analysis)\n- การใช้เทคโนโลยี AI และเครื่องมือดิจิทัล (AI & Digital Tools): สามารถประยุกต์ใช้เครื่องมือ AI และดิจิทัลโซลูชันเพื่อเพิ่มประสิทธิภาพการทำงาน\n- การพัฒนาระบบทำงานอัตโนมัติ (Process Automation): การออกแบบและพัฒนากระบวนการทำงานให้เป็นระบบอัตโนมัติเพื่อลดขั้นตอนและเพิ่มความรวดเร็ว\n- การจัดการเอกสารอัตโนมัติ (Document Automation): การสร้างและพัฒนาระบบจัดการเอกสารอัตโนมัติเพื่อลดภาระงานเอกสาร\n- กรอบคิดเชิงดิจิทัลและการปรับปรุงอย่างต่อเนื่อง (Digital Mindset & Continuous Improvement): มีมุมมองในการนำเทคโนโลยีมาประยุกต์ใช้เพื่อพัฒนาและปรับปรุงกระบวนการทำงานอย่างยั่งยืน\n- การคิดเชิงวิเคราะห์และการแก้ปัญหา (Analytical Thinking & Problem Solving): มีทักษะการคิดเชิงวิเคราะห์ แยกแยะปัญหา และแก้ปัญหาอย่างเป็นระบบ\n- ทักษะการสื่อสารภาษาอังกฤษในระดับดี (Good English Communication Skills): สามารถสื่อสารภาษาอังกฤษในการทำงานได้อย่างมีประสิทธิภาพ\n- การเขียนโปรแกรมด้วยภาษาไพธอน (Python Programming): มีทักษะการเขียนโปรแกรมด้วยภาษา Python เพื่อจัดการข้อมูลและพัฒนาระบบ\n- การจัดการฐานข้อมูลและภาษา SQL (Database & SQL): ความรู้ความเข้าใจในการบริหารจัดการฐานข้อมูลและการใช้คำสั่ง SQL เพื่อดึงและวิเคราะห์ข้อมูล\n- การวิเคราะห์และออกแบบระบบ (System Analysis): มีความสามารถในการวิเคราะห์ ถอดความต้องการ และวางโครงสร้างระบบงานทางเทคโนโลยี\n- ทักษะทางสังคมและการสื่อสาร (Soft Skills): มีทักษะการสื่อสารและการประสานงานระหว่างบุคคลที่ดีเยี่ยม (Communication Skills)",
+      "responsibilities_en": "- Develop quality Tool to connection between issue format, program issues and database\n- Program to summarize the containment action for any issues.\n- Power Bi Dashboard to monitoring capability of QA manpower\n- Quality customer standard database\n- Support quality department activities as we assign.\n",
+      "responsibilities_th": "- การพัฒนาเครื่องมือจัดการคุณภาพ (Quality Tools Development): พัฒนาเครื่องมือเชื่อมโยงรูปแบบปัญหา (Issue formats) รายงานปัญหาจากโปรแกรม และฐานข้อมูลเข้าด้วยกันอย่างเป็นระบบ\n- การพัฒนาระบบสรุปมาตรการแก้ไขปัญหา (Containment Action Program): พัฒนาโปรแกรมเพื่อสรุปและติดตามมาตรการแก้ไขและป้องกันปัญหาเบื้องต้นสำหรับทุกข้อบกพร่องที่เกิดขึ้น\n- การพัฒนาแดชบอร์ดติดตามศักยภาพบุคลากร (Power BI Dashboard for QA Capability): ออกแบบและพัฒนา Power BI Dashboard เพื่อติดตาม สรุปผล และวิเคราะห์ขีดความสามารถ (Capability) ของทีม QA\n- การจัดทำและบริหารฐานข้อมูลมาตรฐานลูกค้า (Quality Customer Standard Database): จัดทำและดูแลฐานข้อมูลมาตรฐานคุณภาพตามข้อกำหนดของลูกค้า\n- การสนับสนุนกิจกรรมภายในแผนกคุณภาพ (Quality Department Support)\n- ให้การสนับสนุนและปฏิบัติงานในกิจกรรมต่างๆ ของแผนกคุณภาพตามที่ได้รับมอบหมาย"
     },
     {
       "internship_id": "INT-2027-025",
       "department": "Sourcing",
-      "position": "Data Quality Trainee",
+      "position": "Data Trainee",
       "quantity": 1,
       "major": "Data Science",
       "education": "Not Specified",
@@ -755,10 +755,10 @@
       "education_th": "ไม่ได้ระบุ",
       "period_en": "Year-round",
       "period_th": "ตลอดทั้งปี",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "Supported Aero Excellence projects by conducting Measurement System Analysis (MSA) and Gage R&R studies to ensure measurement system capability and process reliability.",
-      "responsibilities_th": "สนับสนุนโครงการ Aero Excellence โดยดำเนินการวิเคราะห์ระบบการวัด (MSA) และการศึกษา Gage R&R เพื่อให้มั่นใจว่าระบบการวัดมีความสามารถและกระบวนการมีความน่าเชื่อถือ"
+      "skills_en": "Data analysis / Data extraction\n",
+      "skills_th": "การวิเคราะห์ข้อมูลและการสกัดข้อมูล ",
+      "responsibilities_en": "ERP process improvement / Data extraction / Data analysis / Dashboard development\t\t\n",
+      "responsibilities_th": "- การปรับปรุงกระบวนการ ERP และการบริหารจัดการข้อมูล \n- การปรับปรุงกระบวนการทำงานในระบบ ERP, การสกัดข้อมูล และการวิเคราะห์ข้อมูล \n- การพัฒนาแดชบอร์ดเพื่อการนำเสนอข้อมูล\n- การออกแบบและพัฒนาแดชบอร์ดเพื่อแสดงผลข้อมูลเชิงทัศน์ สรุปภาพรวม และสนับสนุนการติดตามผลการดำเนินงาน"
     },
     {
       "internship_id": "INT-2027-026",
@@ -777,10 +777,10 @@
       "education_th": "ปริญญาตรี",
       "period_en": "May 2027 - October 2027",
       "period_th": "พฤษภาคม 2027 - ตุลาคม 2027",
-      "skills_en": "Automation / AI / Excel / Power BI",
-      "skills_th": "ระบบอัตโนมัติ / AI / Excel / Power BI",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
+      "skills_en": "Process flow design, Excel, Planning\n",
+      "skills_th": "การออกแบบขั้นตอนกระบวนการทำงาน, การใช้โปรแกรม Microsoft Excel ขั้นสูง และการวางแผนงาน",
+      "responsibilities_en": "To study the End to End supply chain process flow and improve the process by implement digital solution or any compliance tool from Safran to reduce waste in the process.\t\t",
+      "responsibilities_th": "การศึกษาและยกระดับกระบวนการห่วงโซ่อุปทานแบบครบวงจร ศึกษา วิเคราะห์ และออกแบบขั้นตอนกระบวนการทำงานในห่วงโซ่อุปทานตั้งแต่ต้นน้ำถึงปลายน้ำ พร้อมประยุกต์ใช้โซลูชันดิจิทัล และเครื่องมือการปฏิบัติตามมาตรฐาน Safran Compliance เพื่อลดความสูญเสีย และเพิ่มประสิทธิภาพในกระบวนการทำงาน"
     }
   ]
 }
