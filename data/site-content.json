@@ -741,7 +741,7 @@
     {
       "internship_id": "INT-2027-025",
       "department": "Sourcing",
-      "position": "Data Trainee",
+      "position": "Data Analyst Trainee",
       "quantity": 1,
       "major": "Data Science",
       "education": "Not Specified",
@@ -781,28 +781,6 @@
       "skills_th": "การออกแบบขั้นตอนกระบวนการทำงาน, การใช้โปรแกรม Microsoft Excel ขั้นสูง และการวางแผนงาน",
       "responsibilities_en": "To study the End to End supply chain process flow and improve the process by implement digital solution or any compliance tool from Safran to reduce waste in the process.\t\t",
       "responsibilities_th": "การศึกษาและยกระดับกระบวนการห่วงโซ่อุปทานแบบครบวงจร ศึกษา วิเคราะห์ และออกแบบขั้นตอนกระบวนการทำงานในห่วงโซ่อุปทานตั้งแต่ต้นน้ำถึงปลายน้ำ พร้อมประยุกต์ใช้โซลูชันดิจิทัล และเครื่องมือการปฏิบัติตามมาตรฐาน Safran Compliance เพื่อลดความสูญเสีย และเพิ่มประสิทธิภาพในกระบวนการทำงาน"
-    },
-    {
-      "internship_id": "INT-2027-NEW",
-      "department": "",
-      "position": "New Trainee",
-      "quantity": 1,
-      "major": "",
-      "education": "",
-      "period": "",
-      "skills": "",
-      "responsibilities": "",
-      "status": "Open",
-      "major_en": "",
-      "major_th": "",
-      "education_en": "",
-      "education_th": "",
-      "period_en": "",
-      "period_th": "",
-      "skills_en": "",
-      "skills_th": "",
-      "responsibilities_en": "",
-      "responsibilities_th": ""
     }
   ]
 }
